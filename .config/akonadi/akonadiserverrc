@@ -1,0 +1,12 @@
+[%General]
+Driver=QMYSQL
+
+[QMYSQL]
+Name=akonadi
+Host=
+Options="UNIX_SOCKET=/home/lucain/.local/share/akonadi/socket-Karma/mysql.socket"
+ServerPath=/usr/bin/mysqld
+StartServer=false
+
+[Debug]
+Tracer=null

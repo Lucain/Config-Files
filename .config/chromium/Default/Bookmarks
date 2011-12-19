@@ -1,0 +1,30 @@
+{
+   "checksum": "62fdda933d711478c4c84219a9974ff4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "12968553692197660",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "12968553692197671",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "12968553692197673",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Marcadores sincronizados",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

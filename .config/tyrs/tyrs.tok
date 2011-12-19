@@ -1,0 +1,7 @@
+[token]
+service = twitter
+base_url = https://api.twitter.com
+oauth_token = 36882203-shXPBcGYJTmw4gZrOsDSCX9jyj0uOpHxXB7zqpnds
+oauth_token_secret = 1ksECf66febgJyAtkQU1Zol1Myk3bjYJBaysvVs438
+last_read = None
+

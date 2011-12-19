@@ -1,0 +1,81 @@
+{
+   "browser": {
+      "window_placement": {
+         "bottom": 714,
+         "left": 1440,
+         "maximized": false,
+         "right": 2490,
+         "top": 0,
+         "work_area_bottom": 900,
+         "work_area_left": 0,
+         "work_area_right": 1440,
+         "work_area_top": 0
+      }
+   },
+   "countryid_at_install": 19800,
+   "default_apps_install_state": 1,
+   "default_search_provider": {
+      "enabled": true,
+      "encodings": "UTF-8",
+      "icon_url": "http://www.google.com/favicon.ico",
+      "id": "2",
+      "instant_url": "{google:baseURL}webhp?{google:RLZ}sourceid=chrome-instant&{google:instantFieldTrialGroupParameter}ie={inputEncoding}&ion=1{searchTerms}",
+      "keyword": "google.com",
+      "name": "Google",
+      "prepopulate_id": "1",
+      "search_url": "{google:baseURL}search?{google:RLZ}{google:acceptedSuggestion}{google:originalQueryForSuggestion}{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}sourceid=chrome&ie={inputEncoding}&q={searchTerms}",
+      "suggest_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}client=chrome&hl={language}&q={searchTerms}"
+   },
+   "dns_prefetching": {
+      "host_referral_list": [ 2 ],
+      "startup_list": [ 1, "http://linkhelp.clients.google.com/", "http://tools.google.com/", "http://www.youtube.com/" ]
+   },
+   "download": {
+      "directory_upgrade": true,
+      "extensions_to_open": ""
+   },
+   "extensions": {
+      "autoupdate": {
+         "next_check": "12968570278815223"
+      },
+      "chrome_url_overrides": {
+         "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
+      },
+      "settings": {
+         "ahfgeienlihckogmohjhadlkjgocpleb": {
+            "app_launcher_index": -2,
+            "page_index": 0
+         }
+      }
+   },
+   "homepage": "http://www.google.com/",
+   "homepage_is_newtabpage": true,
+   "http_throttling": {
+      "enabled": true
+   },
+   "ntp": {
+      "app_page_names": [ "Google Apps" ],
+      "pref_version": 3,
+      "promo_build": 0,
+      "promo_closed": false,
+      "promo_end": 1323071940.0,
+      "promo_group": 81,
+      "promo_group_max": 0,
+      "promo_group_timeslice": 0,
+      "promo_line": "\u003Ca href=\"http://www.google.es/chromebook/index.html#utm_campaign=es&utm_source=es-ntp-holidays-es-bkws&utm_medium=ntp-holidays\"\u003EDescubre los Chromebook\u003C/a\u003E \u2013 ordenador que usa Chrome",
+      "promo_resource_cache_update": "1324080077.822654",
+      "promo_start": 1321862280.0,
+      "promo_views": 0,
+      "promo_views_max": 0
+   },
+   "plugins": {
+      "enabled_internal_pdf3": true,
+      "enabled_nacl": true
+   },
+   "profile": {
+      "content_settings": {
+         "pref_version": 1
+      },
+      "exited_cleanly": true
+   }
+}

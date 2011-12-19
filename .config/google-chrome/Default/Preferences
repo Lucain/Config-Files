@@ -1,0 +1,258 @@
+{
+   "browser": {
+      "window_placement": {
+         "bottom": 741,
+         "left": 1440,
+         "maximized": false,
+         "right": 2490,
+         "top": 0,
+         "work_area_bottom": 900,
+         "work_area_left": 0,
+         "work_area_right": 1440,
+         "work_area_top": 0
+      }
+   },
+   "countryid_at_install": 19800,
+   "default_apps_install_state": 1,
+   "default_search_provider": {
+      "enabled": true,
+      "encodings": "UTF-8",
+      "icon_url": "http://www.google.com/favicon.ico",
+      "id": "2",
+      "instant_url": "{google:baseURL}webhp?{google:RLZ}sourceid=chrome-instant&{google:instantFieldTrialGroupParameter}ie={inputEncoding}&ion=1{searchTerms}",
+      "keyword": "google.com",
+      "name": "Google",
+      "prepopulate_id": "1",
+      "search_url": "{google:baseURL}search?{google:RLZ}{google:acceptedSuggestion}{google:originalQueryForSuggestion}{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}sourceid=chrome&ie={inputEncoding}&q={searchTerms}",
+      "suggest_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}{google:instantFieldTrialGroupParameter}client=chrome&hl={language}&q={searchTerms}"
+   },
+   "dns_prefetching": {
+      "host_referral_list": [ 2, [ "http://googleads.g.doubleclick.net/", [ "http://google.com/", 3.2643407999999994, "https://googleads.g.doubleclick.net/", 3.2643407999999994 ] ], [ "http://pubads.g.doubleclick.net/", [ "http://csi.gstatic.com/", 2.2733802, "http://googleads.g.doubleclick.net/", 3.2643407999999994, "http://pagead2.googlesyndication.com/", 3.924981199999999 ] ], [ "http://www.google.com.mx/", [ "http://ssl.gstatic.com/", 2.23083495824, "http://www.google.com.mx/", 6.384149024959998 ] ], [ "http://www.taringa.net/", [ "http://ajax.googleapis.com/", 2.048762464, "http://edge.quantserve.com/", 1.8307511319999998, "http://o2.t26.net/", 3.6937570599999994, "http://of1.net/", 1.8307511319999998, "http://partner.googleadservices.com/", 2.266773796, "http://pixel.quantserve.com/", 1.8307511319999998, "http://pubads.g.doubleclick.net/", 3.4757457279999993, "http://www.google-analytics.com/", 1.8307511319999998, "http://www.google.com/", 2.5970939959999995, "https://apis.google.com/", 1.500430932 ] ] ],
+      "startup_list": [ 1, "http://ajax.googleapis.com/", "http://csi.gstatic.com/", "http://linkhelp.clients.google.com/", "http://o2.t26.net/", "http://partner.googleadservices.com/", "http://ssl.gstatic.com/", "http://tools.google.com/", "http://www.google.com.mx/", "http://www.google.com/", "http://www.taringa.net/" ]
+   },
+   "download": {
+      "directory_upgrade": true,
+      "extensions_to_open": ""
+   },
+   "extensions": {
+      "autoupdate": {
+         "next_check": "12968487538487554"
+      },
+      "chrome_url_overrides": {
+         "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
+      },
+      "settings": {
+         "ahfgeienlihckogmohjhadlkjgocpleb": {
+            "app_launcher_index": -2,
+            "page_index": 0
+         },
+         "blpcfgokakmgnkcojhhkbfbldkacnbeo": {
+            "app_launcher_index": 0,
+            "from_bookmark": true,
+            "from_webstore": false,
+            "install_time": "12968470410149455",
+            "location": 2,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "container": "tab",
+                     "web_url": "http://www.youtube.com/"
+                  },
+                  "web_content": {
+                     "enabled": true,
+                     "origin": "http://www.youtube.com"
+                  }
+               },
+               "description": "The world's most popular online video community.",
+               "icons": {
+                  "128": "128.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDC/HotmFlyuz5FaHaIbVBhhL4BwbcUtsfWwzgUMpZt5ZsLB2nW/Y5xwNkkPANYGdVsJkT2GPpRRIKBO5QiJ7jPMa3EZtcZHpkygBlQLSjMhdrAKevpKgIl6YTkwzNvExY6rzVDzeE9zqnIs33eppY4S5QcoALMxuSWlMKqgFQjHQIDAQAB",
+               "name": "YouTube",
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "4.2"
+            },
+            "page_index": 0,
+            "path": "blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2_0",
+            "state": 1
+         },
+         "coobgpohoikkiipiblmjeljniedjpjpf": {
+            "app_launcher_index": 2,
+            "from_bookmark": true,
+            "from_webstore": false,
+            "install_time": "12968470410249678",
+            "location": 2,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "web_url": "http://www.google.com/?source=search_app"
+                  },
+                  "urls": [ "*://www.google.com/?source=search_app", "*://www.google.com/search", "*://www.google.com/webhp", "*://www.google.com/imgres" ]
+               },
+               "current_locale": "es_419",
+               "default_locale": "en",
+               "description": "La manera m\u00E1s r\u00E1pida de buscar en la web.",
+               "icons": {
+                  "128": "128.png",
+                  "16": "16.png",
+                  "32": "32.png",
+                  "48": "48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDIiso3Loy5VJHL40shGhUl6it5ZG55XB9q/2EX6aa88jAxwPutbCgy5d9bm1YmBzLfSgpX4xcpgTU08ydWbd7b50fbkLsqWl1mRhxoqnN01kuNfv9Hbz9dWWYd+O4ZfD3L2XZs0wQqo0y6k64n+qeLkUMd1MIhf6MR8Xz1SOA8pwIDAQAB",
+               "name": "B\u00FAsqueda de Google",
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "0.0.0.14"
+            },
+            "page_index": 0,
+            "path": "coobgpohoikkiipiblmjeljniedjpjpf/0.0.0.14_0",
+            "state": 1
+         },
+         "pjkljhegncpnkpknbcohdijeoejaedia": {
+            "active_permissions": {
+               "api": [ "notifications" ]
+            },
+            "app_launcher_index": 1,
+            "from_bookmark": true,
+            "from_webstore": false,
+            "install_time": "12968470410245948",
+            "location": 2,
+            "manifest": {
+               "app": {
+                  "launch": {
+                     "container": "tab",
+                     "web_url": "https://mail.google.com/mail/ca"
+                  },
+                  "urls": [ "*://mail.google.com/mail/ca" ]
+               },
+               "current_locale": "es_419",
+               "default_locale": "en",
+               "description": "Un servicio de correo electr\u00F3nico r\u00E1pido con menos spam y que permite realizar b\u00FAsquedas.",
+               "icons": {
+                  "128": "128.png",
+                  "24": "24.png",
+                  "48": "48.png"
+               },
+               "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDCuGglK43iAz3J9BEYK/Mz6ZhloIMMDqQSAaf3vJt4eHbTbSDsu4WdQ9dQDRcKlg8nwQdePBt0C3PSUBtiSNSS37Z3qEGfS7LCju3h6pI1Yr9MQtxw+jUa7kXXIS09VV73pEFUT/F7c6Qe8L5ZxgAcBvXBh1Fie63qb02I9XQ/CQIDAQAB",
+               "name": "Gmail",
+               "options_page": "https://mail.google.com/mail/ca/#settings",
+               "permissions": [ "notifications" ],
+               "update_url": "http://clients2.google.com/service/update2/crx",
+               "version": "6.1.3"
+            },
+            "page_index": 0,
+            "path": "pjkljhegncpnkpknbcohdijeoejaedia/6.1.3_0",
+            "state": 1
+         }
+      }
+   },
+   "homepage": "http://www.google.com/",
+   "homepage_is_newtabpage": true,
+   "http_throttling": {
+      "enabled": true
+   },
+   "instant": {
+      "enabled_time": "12968470408949101"
+   },
+   "net": {
+      "http_server_properties": {
+         "googleads.g.doubleclick.net:443": {
+            "settings": [ {
+               "id": 4,
+               "value": 100
+            } ],
+            "supports_spdy": true
+         }
+      }
+   },
+   "ntp": {
+      "app_page_names": [ "Google Apps" ],
+      "promo_build": 0,
+      "promo_closed": false,
+      "promo_end": 1323071940.0,
+      "promo_feature_mask": 0,
+      "promo_group": 9,
+      "promo_group_max": 0,
+      "promo_group_timeslice": 0,
+      "promo_is_logged_in_to_plus": false,
+      "promo_line": "\u003Ca href=\"http://www.google.com/chromebook/index.html#utm_campaign=en&utm_source=en-ntp-holidays-na-us-bkws&utm_medium=ntp-holidays\"\u003EGet a Chromebook for the holidays\u003C/a\u003E: the computer powered by Chrome.",
+      "promo_platform": 0,
+      "promo_resource_cache_update": "1323996874.77989",
+      "promo_start": 1321862280.0,
+      "promo_views": 0,
+      "promo_views_max": 0
+   },
+   "plugins": {
+      "enabled_internal_pdf3": true,
+      "enabled_nacl": true,
+      "last_internal_directory": "/opt/google/chrome",
+      "plugins_list": [ {
+         "enabled": true,
+         "name": "Remoting Viewer",
+         "path": "internal-remoting-viewer",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Remoting Viewer"
+      }, {
+         "enabled": true,
+         "name": "Native Client",
+         "path": "/opt/google/chrome/libppGoogleNaClPluginChrome.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Native Client"
+      }, {
+         "enabled": true,
+         "name": "Chrome PDF Viewer",
+         "path": "/opt/google/chrome/libpdf.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Chrome PDF Viewer"
+      }, {
+         "enabled": true,
+         "name": "Java(TM) Plug-in 1.7.0_02",
+         "path": "/opt/java/jre/lib/amd64/libnpjp2.so",
+         "version": "1.7.0_02"
+      }, {
+         "enabled": true,
+         "name": "Java(TM) Plug-in 1.7.0_02"
+      }, {
+         "enabled": true,
+         "name": "Skype Buttons for Kopete",
+         "path": "/usr/lib/mozilla/plugins/skypebuttons.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Skype Buttons for Kopete"
+      }, {
+         "enabled": true,
+         "name": "Shockwave Flash",
+         "path": "/usr/lib/mozilla/plugins/libflashplayer.so",
+         "version": "11.1 r102"
+      }, {
+         "enabled": true,
+         "name": "Flash"
+      }, {
+         "enabled": true,
+         "name": "iTunes Application Detector",
+         "path": "/usr/lib/mozilla/plugins/librhythmbox-itms-detection-plugin.so",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "iTunes Application Detector"
+      } ]
+   },
+   "profile": {
+      "content_settings": {
+         "pref_version": 1
+      },
+      "exited_cleanly": true,
+      "local_profile_id": 8602595,
+      "passwords_use_local_profile_id": true
+   },
+   "sync_promo": {
+      "startup_count": 1,
+      "view_count": 1
+   }
+}
